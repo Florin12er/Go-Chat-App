@@ -69,6 +69,8 @@ To use the chatbot:
 2. Open your web browser and navigate to `http://localhost:8080` (or whatever port you specified in the `.env` file).
 3. Start chatting with the AI in the provided interface.
 
+If you want to just try out the app the here is a live demo: [LIVE](https://go-chat-app-h3ix.onrender.com)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
